@@ -13,3 +13,18 @@ C:\Users\guill\Documents\1ºDAWA\PRO\Segundo Trimestre\TriPrograming\EJER0505\Ej
 C:\Users\guill\Documents\1ºDAWA\PRO\Segundo Trimestre\TriPrograming\EJER0505\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
 C:\Users\guill\Documents\1ºDAWA\PRO\Segundo Trimestre\TriPrograming\EJER0505\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
 C:\Users\guill\Documents\1ºDAWA\PRO\Segundo Trimestre\TriPrograming\EJER0505\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
+F:\TriProgramming\TriProgramming\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+F:\TriProgramming\TriProgramming\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+F:\TriProgramming\TriProgramming\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+F:\TriProgramming\TriProgramming\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+F:\TriProgramming\TriProgramming\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+F:\TriProgramming\TriProgramming\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\guill\\.nuget\\packages\\": {}
+    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio2\\Ejercicio2.csproj",
+      "projectUniqueName": "F:\\TriProgramming\\TriProgramming\\Ejercicio2\\Ejercicio2.csproj",
       "projectName": "Ejercicio2",
-      "projectPath": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio2\\Ejercicio2.csproj",
-      "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio2\\obj\\",
+      "projectPath": "F:\\TriProgramming\\TriProgramming\\Ejercicio2\\Ejercicio2.csproj",
+      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+      "outputPath": "F:\\TriProgramming\\TriProgramming\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
