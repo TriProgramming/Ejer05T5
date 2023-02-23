@@ -1,0 +1,15 @@
+F:\TriProgramming\TriProgramming\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+F:\TriProgramming\TriProgramming\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+F:\TriProgramming\TriProgramming\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+F:\TriProgramming\TriProgramming\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+F:\TriProgramming\TriProgramming\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+F:\TriProgramming\TriProgramming\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
