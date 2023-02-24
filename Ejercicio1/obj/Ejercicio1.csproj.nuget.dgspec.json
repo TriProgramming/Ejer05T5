@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TriProgramming\\TriProgramming\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "F:\\TriProgramming\\TriProgramming\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TriProgramming\\TriProgramming\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "F:\\TriProgramming\\TriProgramming\\Ejercicio1\\Ejercicio1.csproj",
-        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "F:\\TriProgramming\\TriProgramming\\Ejercicio1\\obj\\",
+        "projectPath": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio1\\Ejercicio1.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\Documents\\1ºDAWA\\PRO\\Segundo Trimestre\\TriPrograming\\EJER0505\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
